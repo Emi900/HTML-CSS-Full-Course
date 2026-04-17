@@ -1,0 +1,32 @@
+    .Applay{
+            font-size: 17px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight: bold;
+            background-color: rgb(10, 102, 194);
+            color: white;
+            height: 45px; /* inaltimea*/
+            width: 250px; /* lungimea*/
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            border-color: rgb(2, 2, 2);
+            border-style: none;
+            border-width: 1px;
+        }
+           .Save{
+            font-size: 17px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight: bold;
+            background-color: white;
+            color: rgb(10, 102, 194);
+            height: 45px; /* inaltimea*/
+            width: 100px; /* lungimea*/
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            border-color: rgb(10, 102, 194);
+            border-style: solid;
+            border-width: 1px;
+        }
+
+    
