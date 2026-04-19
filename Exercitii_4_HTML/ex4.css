@@ -1,0 +1,15 @@
+.back {
+        margin-right: 10px;
+        width: 50px;
+        height: 40px;
+
+}
+.next {
+        margin-left: 10px;
+        width: 50px;
+        height: 40px;
+}
+
+.numere{
+    margin-right: 5px;
+}
